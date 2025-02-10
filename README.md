@@ -1,11 +1,8 @@
 # Hardware Trojan Detection Using Graph Neural Networks
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 A novel approach for detecting hardware Trojans in integrated circuits using Graph Attention Networks (GATs) at gate-level netlists.
-
-![Workflow Diagram](https://via.placeholder.com/800x400.png?text=Hardware+Trojan+Detection+Workflow)
 
 ## 📖 Abstract
 With the growing complexity of global semiconductor supply chains, hardware Trojans have become a critical security threat. This project presents a machine learning framework using Graph Neural Networks (GNNs) to detect hardware Trojans in gate-level netlists, achieving:
@@ -14,13 +11,10 @@ With the growing complexity of global semiconductor supply chains, hardware Troj
 - **93.18%** F1 Score
 
 ## 📦 Installation
-```bash
+
 # Clone repository
 git clone https://github.com/yourusername/hardware-trojan-detection.git
 cd hardware-trojan-detection
-
-# Install dependencies
-pip install -r requirements.txt
 
 ## 🛠️ Requirements
 
