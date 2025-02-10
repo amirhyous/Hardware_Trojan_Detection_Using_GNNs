@@ -82,10 +82,10 @@ Model persistence and results logging
 Sample output from Trust-HUB benchmarks:
 
 Metric	Value
-Accuracy	99.32%
-TPR	88.18%
-TNR	99.94%
-F1 Score	93.18%
+- Accuracy  99.32%
+- TPR       88.18%
+- TNR	      99.94%
+- F1 Score	93.18%
 
 ## 👨💻 Contributors
 
