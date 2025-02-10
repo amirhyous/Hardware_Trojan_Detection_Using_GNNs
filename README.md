@@ -89,8 +89,8 @@ Metric	Value
 
 ## 👨💻 Contributors
 
-Amirhossein Yousefvand (@amirhossein-yousefvand)
-Supervisor: Dr. Siamak Mohammadi
+- Amirhossein Yousefvand (@amirhossein-yousefvand)
+- Supervisor: Dr. Siamak Mohammadi
 
 
 
