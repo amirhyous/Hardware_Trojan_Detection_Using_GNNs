@@ -27,7 +27,7 @@ Scikit-learn
 Matplotlib
 
 ## 📂 Project Structure
-
+```bash
 ├── dataset/               # Sample Verilog netlists
 ├── netlists/             # Processed gate-level information
 ├── graphs/               # Graph representations
@@ -44,7 +44,7 @@ Matplotlib
 ├── 8-GAT_model.py        # GAT training/evaluation
 │
 └── README.md             # This file
-
+```
 ## 🚀 Usage
 
 1. Data Preparation
