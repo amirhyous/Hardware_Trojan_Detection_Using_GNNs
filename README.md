@@ -13,7 +13,7 @@ With the growing complexity of global semiconductor supply chains, hardware Troj
 ## 📦 Installation
 
 # Clone repository
-git clone https://github.com/yourusername/hardware-trojan-detection.git
+git clone https://github.com/amirhyous/Hardware_Trojan_Detection_Using_GNNs/tree/main
 cd hardware-trojan-detection
 
 ## 🛠️ Requirements
