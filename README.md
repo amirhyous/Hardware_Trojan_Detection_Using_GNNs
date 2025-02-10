@@ -18,13 +18,13 @@ cd hardware-trojan-detection
 
 ## 🛠️ Requirements
 
-Python 3.8+
-PyTorch 1.10+
-PyTorch Geometric
-NetworkX
-Pandas
-Scikit-learn
-Matplotlib
+- Python 3.8+
+- PyTorch 1.10+
+- PyTorch Geometric
+- NetworkX
+- Pandas
+- Scikit-learn
+- Matplotlib
 
 ## 📂 Project Structure
 ```bash
