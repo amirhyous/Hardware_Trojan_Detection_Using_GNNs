@@ -53,19 +53,19 @@ Place Verilog netlists in dataset/ directory following naming conventions from 1
 
 2. Run Pipeline
 
-# Step 1-2: Netlist processing
+### Step 1-2: Netlist processing
 python 2-IOW_extraction.py
 python 3-netlist_extraction.py
 python 4-netlist_cleaning.py
 
-# Step 3-4: Graph construction
+### Step 3-4: Graph construction
 python 5-graph_construction.py
 python 6-feature_extraction.py
 
-# Step 5: Combine multiple circuits
+### Step 5: Combine multiple circuits
 python 7-graph_combination.py
 
-# Step 6: Train and evaluate GAT model
+### Step 6: Train and evaluate GAT model
 python 8-GAT_model.py
 
 ## 🎯 Key Features
